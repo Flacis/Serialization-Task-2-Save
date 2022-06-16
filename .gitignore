@@ -1,0 +1,10 @@
+/target/
+/out/
+/bin/
+*.iml
+*.log
+.lock
+.tmp
+.idea
+.DS_Store
+Thumbs.db
